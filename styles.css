@@ -19,7 +19,7 @@ table {
 }
 
 td, th {
-    border: 1px solid #898484;
+    border: 0px solid #898484;
     align-items: center;
     padding: 0;
     margin: 0;
