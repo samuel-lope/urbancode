@@ -10,12 +10,12 @@
 
 <table>
   <tr>
-    <th>1p-01</th>
-    <th>1p-02</th>
-    <th>1p-03</th>
-    <th>1p-04</th>
-    <th>1p-05</th>
-    <th>1p-06</th>
+    <th>1p-A</th>
+    <th>1p-B</th>
+    <th>1p-C</th>
+    <th>1p-D</th>
+    <th>1p-E</th>
+    <th>1p-F</th>
   </tr>
   <tr>
     <td>
@@ -68,12 +68,12 @@
 
 <table>
   <tr>
-    <th>2p-01</th>
-    <th>2p-02</th>
-    <th>2p-03</th>
-    <th>2p-04</th>
-    <th>2p-05</th>
-    <th>2p-06</th>
+    <th>2p-A</th>
+    <th>2p-B</th>
+    <th>2p-C</th>
+    <th>2p-D</th>
+    <th>2p-E</th>
+    <th>2p-F</th>
   </tr>
   <tr>
     <td>
