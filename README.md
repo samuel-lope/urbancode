@@ -5,13 +5,12 @@
 </div>
 
 
-
 | Icon  | File Name       | Description |
 |-------|-----------------|-------------|
-|![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0003-end.svg)   | sq0003-end  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0011-end.svg)   | sq0011-end  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0006-end.svg)   | sq0006-end  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0009-end.svg)   | sq0009-end  | Start-Stop Icon      |
+|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0001v2.svg)   | 1p0001v2  | Start-Stop Icon      |
+|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0002v2.svg)   | 1p0002v2  | Start-Stop Icon      |
+|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0003v2.svg)   | 1p0003v2  | Start-Stop Icon      |
+|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0004v2.svg)   | 1p0004v2  | Start-Stop Icon      |
 |![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0004-p2.svg)    | sq0004-p2   | Way Icon 2 points    |
 |![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0005-p2.svg)    | sq0005-p2   | Way Icon 2 points    |
 |![Icone SVG](https://urbancode.samuellopes.com.br/imgs/sq0007-p2.svg)    | sq0007-p2   | Way Icon 2 points    |
