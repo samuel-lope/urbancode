@@ -18,7 +18,7 @@
 |![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0006v2.svg)   | 1p0006v2  | Star-Stop Icon       |
 
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2.svg"><source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2-light.svg"></picture> | 1p0006v2  | Star-Stop Icon       |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2.svg"><source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2-light.svg"><img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/1p0006v2-light.svg"></picture> | 1p0006v2  | Star-Stop Icon       |
 
 
 
