@@ -16,6 +16,7 @@
 |![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0004v2.svg)   | 1p0004v2  | Start-Stop Icon      |
 |![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0005v2.svg)   | 1p0005v2  | Star-Stop Icon       |
 |![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0006v2.svg)   | 1p0006v2  | Star-Stop Icon       |
+|<img src="https://urbancode.samuellopes.com.br/icons/1p0006v2.svg" height="50px"/>   | 1p0006v2  | Star-Stop Icon       |
 
 
 
