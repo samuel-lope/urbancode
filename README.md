@@ -8,21 +8,21 @@
 
 ******
 
-| Icon  | File Name       | Description |
-|-------|-----------------|-------------|
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0001v2.svg)   | 1p0001v2  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0002v2.svg)   | 1p0002v2  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0003v2.svg)   | 1p0003v2  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0004v2.svg)   | 1p0004v2  | Start-Stop Icon      |
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0005v2.svg)   | 1p0005v2  | Star-Stop Icon       |
-|![Icone SVG](https://urbancode.samuellopes.com.br/icons/1p0006v2.svg)   | 1p0006v2  | Star-Stop Icon       |
-
-
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2.svg"><source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/1p0006v2-light.svg"><img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/1p0006v2-light.svg"></picture> | 1p0006v2  | Star-Stop Icon       |
-
-
-
-
-
-
-
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>File Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/1p0001v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/1p0001v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/1p0001v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>1p0001v2</td>
+    <td>Start-Stop Icon</td>
+  </tr>
+</table>
