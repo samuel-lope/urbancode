@@ -12,7 +12,7 @@
 <div align="center">
 <table>
   <tr>
-    <th>1A</th>
+    <th><sub>1A</sub></th>
     <th>1B</th>
     <th>1C</th>
     <th>1D</th>
