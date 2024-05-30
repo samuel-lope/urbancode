@@ -12,12 +12,12 @@
 <div align="center">
 <table>
   <tr>
-    <th><sub>1A</sub></th>
-    <th><sub>1B</sub></th>
-    <th><sub>1C</sub></th>
-    <th><sub>1D</sub></th>
-    <th><sub>1E</sub></th>
-    <th><sub>1F</sub></th>
+    <th><sub><s</sub>ub>1A</sub></th>
+    <th><sub><s</sub>ub>1B</sub></th>
+    <th><sub><s</sub>ub>1C</sub></th>
+    <th><sub><s</sub>ub>1D</sub></th>
+    <th><sub><s</sub>ub>1E</sub></th>
+    <th><sub><s</sub>ub>1F</sub></th>
   </tr>
   <tr>
     <td>
@@ -70,12 +70,12 @@
 
 <table>
   <tr>
-    <th>2A</th>
-    <th>2B</th>
-    <th>2C</th>
-    <th>2D</th>
-    <th>2E</th>
-    <th>2F</th>
+    <th><sub>2A</sub></th>
+    <th><sub>2B</sub></th>
+    <th><sub>2C</sub></th>
+    <th><sub>2D</sub></th>
+    <th><sub>2E</sub></th>
+    <th><sub>2F</sub></th>
   </tr>
   <tr>
     <td>
@@ -128,12 +128,12 @@
 
 <table>
   <tr>
-    <th>3A</th>
-    <th>3B</th>
-    <th>3C</th>
-    <th>3D</th>
-    <th>3E</th>
-    <th>3F</th>
+    <th><sub>3A</sub></th>
+    <th><sub>3B</sub></th>
+    <th><sub>3C</sub></th>
+    <th><sub>3D</sub></th>
+    <th><sub>3E</sub></th>
+    <th><sub>3F</sub></th>
   </tr>
   <tr>
     <td>
@@ -186,12 +186,12 @@
 
 <table>
   <tr>
-    <th>4A</th>
-    <th>4B</th>
-    <th>4C</th>
-    <th>4D</th>
-    <th>4E</th>
-    <th>4F</th>
+    <th><sub>4A</sub></th>
+    <th><sub>4B</sub></th>
+    <th><sub>4C</sub></th>
+    <th><sub>4D</sub></th>
+    <th><sub>4E</sub></th>
+    <th><sub>4F</sub></th>
   </tr>
   <tr>
     <td>
@@ -244,12 +244,12 @@
 
 <table>
   <tr>
-    <th>lA</th>
-    <th>lB</th>
-    <th>lC</th>
-    <th>lD</th>
-    <th>lE</th>
-    <th>lF</th>
+    <th><sub>lA</sub></th>
+    <th><sub>lB</sub></th>
+    <th><sub>lC</sub></th>
+    <th><sub>lD</sub></th>
+    <th><sub>lE</sub></th>
+    <th><sub>lF</sub></th>
   </tr>
   <tr>
     <td>
