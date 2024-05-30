@@ -1,4 +1,9 @@
 <div align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/imgs/header-001.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/imgs/header-001-light.svg">
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/imgs/header-001-light.svg" height="100px"/>
+        </picture>
   <h1>Urban Code Pattern</h1>
   <h4>Tabela de Ícones:</h4>  
 </div>
