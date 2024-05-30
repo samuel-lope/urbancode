@@ -180,4 +180,62 @@
   </tr>
 </table>
 
+<!-- tabela 04 -->
+
+<table>
+  <tr>
+    <th>4p-A</th>
+    <th>4p-B</th>
+    <th>4p-C</th>
+    <th>4p-D</th>
+    <th>4p-E</th>
+    <th>4p-F</th>
+  </tr>
+  <tr>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0001v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0001v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0001v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0002v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0002v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0002v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0003v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0003v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0003v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0004v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0004v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0004v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0005v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0005v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0005v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+    <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0006v2.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/4p0006v2-light.svg">
+          <img alt="Icones dinâmicos para dark e light themes." src="https://urbancode.samuellopes.com.br/icons/v2/4p0006v2-light.svg" height="50px"/>
+        </picture>
+    </td>
+   
+  </tr>
+</table>
+
 </div>
