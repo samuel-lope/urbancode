@@ -1,9 +1,6 @@
 <div align="center">
-
-  
-  ![Icone SVG](https://urbancode.samuellopes.com.br/imgs/example_icon01.svg)
-  <h3>Tabela de Ícones:</h3>
-  
+  <h1>Urban Code Pattern</h1>
+  <h4>Tabela de Ícones:</h4>  
 </div>
 
 ******
@@ -295,5 +292,4 @@
    
   </tr>
 </table>
-
 </div>
