@@ -13,11 +13,11 @@
 <table>
   <tr>
     <th><sub>1A</sub></th>
-    <th>1B</th>
-    <th>1C</th>
-    <th>1D</th>
-    <th>1E</th>
-    <th>1F</th>
+    <th><sub>1B</sub></th>
+    <th><sub>1C</sub></th>
+    <th><sub>1D</sub></th>
+    <th><sub>1E</sub></th>
+    <th><sub>1F</sub></th>
   </tr>
   <tr>
     <td>
