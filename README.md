@@ -12,12 +12,12 @@
 <div align="center">
 <table>
   <tr>
-    <th>1p-A</th>
-    <th>1p-B</th>
-    <th>1p-C</th>
-    <th>1p-D</th>
-    <th>1p-E</th>
-    <th>1p-F</th>
+    <th>1A</th>
+    <th>1B</th>
+    <th>1C</th>
+    <th>1D</th>
+    <th>1E</th>
+    <th>1F</th>
   </tr>
   <tr>
     <td>
@@ -70,12 +70,12 @@
 
 <table>
   <tr>
-    <th>2p-A</th>
-    <th>2p-B</th>
-    <th>2p-C</th>
-    <th>2p-D</th>
-    <th>2p-E</th>
-    <th>2p-F</th>
+    <th>2A</th>
+    <th>2B</th>
+    <th>2C</th>
+    <th>2D</th>
+    <th>2E</th>
+    <th>2F</th>
   </tr>
   <tr>
     <td>
@@ -128,12 +128,12 @@
 
 <table>
   <tr>
-    <th>3p-A</th>
-    <th>3p-B</th>
-    <th>3p-C</th>
-    <th>3p-D</th>
-    <th>3p-E</th>
-    <th>3p-F</th>
+    <th>3A</th>
+    <th>3B</th>
+    <th>3C</th>
+    <th>3D</th>
+    <th>3E</th>
+    <th>3F</th>
   </tr>
   <tr>
     <td>
@@ -186,12 +186,12 @@
 
 <table>
   <tr>
-    <th>4p-A</th>
-    <th>4p-B</th>
-    <th>4p-C</th>
-    <th>4p-D</th>
-    <th>4p-E</th>
-    <th>4p-F</th>
+    <th>4A</th>
+    <th>4B</th>
+    <th>4C</th>
+    <th>4D</th>
+    <th>4E</th>
+    <th>4F</th>
   </tr>
   <tr>
     <td>
@@ -244,12 +244,12 @@
 
 <table>
   <tr>
-    <th>lin-A</th>
-    <th>lin-B</th>
-    <th>lin-C</th>
-    <th>lin-D</th>
-    <th>lin-E</th>
-    <th>lin-F</th>
+    <th>lA</th>
+    <th>lB</th>
+    <th>lC</th>
+    <th>lD</th>
+    <th>lE</th>
+    <th>lF</th>
   </tr>
   <tr>
     <td>
