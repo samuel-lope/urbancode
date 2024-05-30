@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.687531mm"
+   height="39.687679mm"
+   viewBox="0 0 39.687531 39.687679"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(328.4249,-251.28991)">
+    <g
+       id="g88">
+      <rect
+         style="fill:none;stroke-width:0.00853528;stroke-linejoin:round"
+         id="rect86"
+         width="39.6875"
+         height="39.6875"
+         x="-328.42493"
+         y="251.29008" />
+      <path
+         id="path87"
+         style="fill:#ffffff;stroke-width:0.0186056;stroke-linejoin:round"
+         d="m -309.90405,251.28991 v 9.26041 h 1.32292 v 5.2e-4 a 10.583333,10.583333 0 0 1 10.58333,10.58333 10.583333,10.583333 0 0 1 -10.58333,10.58334 h -1.32292 v 9.2599 h 2.64583 v -6.68332 a 13.229167,13.229167 0 0 0 11.83752,-11.83752 h 6.68332 v -2.64583 h -6.7014 a 13.229167,13.229167 0 0 0 -11.81944,-11.81892 v -6.70191 z" />
+    </g>
+    <circle
+       style="fill:#ffffff;stroke-width:0.0133248;stroke-linejoin:round"
+       id="path88"
+       cx="-308.58115"
+       cy="271.13376"
+       r="5.2916665" />
+  </g>
+</svg>
