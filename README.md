@@ -12,12 +12,12 @@
 <div align="center">
 <table>
   <tr>
-    <th><sub><s</sub>ub>1A</sub></th>
-    <th><sub><s</sub>ub>1B</sub></th>
-    <th><sub><s</sub>ub>1C</sub></th>
-    <th><sub><s</sub>ub>1D</sub></th>
-    <th><sub><s</sub>ub>1E</sub></th>
-    <th><sub><s</sub>ub>1F</sub></th>
+    <th><sub>1A</sub></th>
+    <th><sub>1B</sub></th>
+    <th><sub>1C</sub></th>
+    <th><sub>1D</sub></th>
+    <th><sub>1E</sub></th>
+    <th><sub>1F</sub></th>
   </tr>
   <tr>
     <td>
