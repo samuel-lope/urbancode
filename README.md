@@ -8,7 +8,6 @@
   <h4>Tabela de Ícones:</h4>  
 </div>
 
-******
 <div align="center">
 <table>
   <tr>
