@@ -313,42 +313,42 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0001.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0001-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/sqr0001-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
     <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0002.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0002-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/sqr0002-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
     <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0003.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0003-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/sqr0003-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
     <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0004.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0004-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/sqr0004-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
     <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0005.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0005-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/sqr0005-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
     <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0006.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://urbancode.samuellopes.com.br/icons/v2/sqr0006-light.svg">
-          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/4p0006v2-light.svg" height="55px"/>
+          <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/v2/0p000Nv2-vazio.svg" height="55px"/>
         </picture>
     </td>
    
