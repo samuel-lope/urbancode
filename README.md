@@ -5,7 +5,7 @@
           <img alt="icon" src="https://urbancode.samuellopes.com.br/icons/imgs/header-001-light.svg" height="85px"/>
         </picture>
   <h1>Urban Code Pattern</h1>
-  <h4>Tabela de Ícones:</h4>  
+  <span style="color:blue"><h4>Tabela de Ícones:</h4></span>
 </div>
 
 <div align="center">
