@@ -354,5 +354,7 @@
    
   </tr>
 </table>
+Padrão de imagens criado por Samuel Lopes - 2024.
+O uso e a cópia é autorizado, desde que não seja comercial.
 
 </div>
